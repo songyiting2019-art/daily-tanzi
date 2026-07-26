@@ -228,11 +228,17 @@ figure {
 figure img {
   display: block;
   width: 100%;
+  height: auto;
   max-height: 62svh;
   object-fit: cover;
   border-radius: 22px;
   background: var(--paper-deep);
   box-shadow: var(--shadow);
+}
+
+figure img.object-contain {
+  object-fit: contain;
+  background: #e7e3db;
 }
 
 .story:nth-of-type(3) figure img,
