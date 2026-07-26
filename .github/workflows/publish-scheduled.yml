@@ -1,0 +1,70 @@
+name: Publish scheduled Daily Tanzi
+
+on:
+  schedule:
+    - cron: "17 0 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      issue_date:
+        description: "Issue date to publish (YYYY-MM-DD); defaults to today in Asia/Shanghai"
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-tanzi-scheduled-publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the publication repository
+        uses: actions/checkout@v4
+
+      - name: Resolve the issue date
+        id: issue
+        env:
+          MANUAL_DATE: ${{ inputs.issue_date }}
+        run: |
+          if [ -n "$MANUAL_DATE" ]; then
+            issue_date="$MANUAL_DATE"
+          else
+            issue_date="$(TZ=Asia/Shanghai date +%F)"
+          fi
+          echo "date=$issue_date" >> "$GITHUB_OUTPUT"
+
+      - name: Check whether an issue is scheduled
+        id: scheduled
+        env:
+          ISSUE_DATE: ${{ steps.issue.outputs.date }}
+        run: |
+          if [ -f "scheduled/$ISSUE_DATE/index.html" ] && [ -f "scheduled/$ISSUE_DATE/metadata.json" ]; then
+            echo "ready=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "ready=false" >> "$GITHUB_OUTPUT"
+            echo "No scheduled issue for $ISSUE_DATE; leaving the site unchanged."
+          fi
+
+      - name: Build the dated homepage and rolling archive
+        if: steps.scheduled.outputs.ready == 'true'
+        env:
+          ISSUE_DATE: ${{ steps.issue.outputs.date }}
+        run: python3 tools/publish_scheduled.py --date "$ISSUE_DATE"
+
+      - name: Commit and push the published issue
+        if: steps.scheduled.outputs.ready == 'true'
+        env:
+          ISSUE_DATE: ${{ steps.issue.outputs.date }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html issues.json archive/ issues/ assets/
+          if git diff --cached --quiet; then
+            echo "Issue $ISSUE_DATE is already published."
+            exit 0
+          fi
+          git commit -m "Publish daily tanzi for $ISSUE_DATE"
+          git push
