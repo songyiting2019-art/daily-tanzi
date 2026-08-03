@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" role="img" aria-labelledby="title desc">
+  <title id="title">欧盟人工智能法分阶段实施时间线</title>
+  <desc id="desc">从2024年生效，到2026年透明度规则适用，再到2027和2028年高风险系统规则分批适用。</desc>
+  <rect width="960" height="520" rx="28" fill="#f6f1e8"/>
+  <text x="64" y="72" font-family="sans-serif" font-size="32" font-weight="700" fill="#1d2924">欧盟 AI 法：不是同一天全部落地</text>
+  <text x="64" y="110" font-family="sans-serif" font-size="19" fill="#665f54">示意图 · 时间间距不按比例</text>
+  <line x1="100" y1="255" x2="860" y2="255" stroke="#9b8a70" stroke-width="8" stroke-linecap="round"/>
+  <g font-family="sans-serif" text-anchor="middle">
+    <circle cx="120" cy="255" r="18" fill="#315f53"/>
+    <text x="120" y="205" font-size="22" font-weight="700" fill="#1d2924">2024.08</text>
+    <text x="120" y="305" font-size="18" fill="#3d493f">法律生效</text>
+    <circle cx="310" cy="255" r="18" fill="#315f53"/>
+    <text x="310" y="205" font-size="22" font-weight="700" fill="#1d2924">2025.02</text>
+    <text x="310" y="305" font-size="18" fill="#3d493f">部分禁令</text>
+    <text x="310" y="332" font-size="18" fill="#3d493f">AI 素养</text>
+    <circle cx="505" cy="255" r="27" fill="#b05245"/>
+    <text x="505" y="195" font-size="24" font-weight="700" fill="#8d3e34">2026.08.02</text>
+    <text x="505" y="310" font-size="19" font-weight="700" fill="#8d3e34">多数规则、透明度</text>
+    <text x="505" y="338" font-size="18" fill="#3d493f">相关执法启动</text>
+    <circle cx="690" cy="255" r="18" fill="#b98a49"/>
+    <text x="690" y="205" font-size="22" font-weight="700" fill="#1d2924">2027.12</text>
+    <text x="690" y="305" font-size="18" fill="#3d493f">部分高风险</text>
+    <text x="690" y="332" font-size="18" fill="#3d493f">系统规则</text>
+    <circle cx="850" cy="255" r="18" fill="#b98a49"/>
+    <text x="850" y="205" font-size="22" font-weight="700" fill="#1d2924">2028.08</text>
+    <text x="850" y="305" font-size="18" fill="#3d493f">产品内嵌</text>
+    <text x="850" y="332" font-size="18" fill="#3d493f">高风险系统</text>
+  </g>
+  <rect x="64" y="392" width="832" height="72" rx="14" fill="#e3ece7"/>
+  <text x="86" y="423" font-family="sans-serif" font-size="19" fill="#29483f">8月2日最直接的变化：与机器互动要告知，合成内容要能被机器识别。</text>
+  <text x="86" y="451" font-family="sans-serif" font-size="17" fill="#52635b">高风险系统的核心义务仍按场景延后实施。</text>
+</svg>
