@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 600" role="img" aria-labelledby="title desc">
+  <title id="title">猎鹰9号上面级撞击月球示意图</title>
+  <desc id="desc">废弃上面级飞向月缘附近的受光区域，撞击闪光和扬尘可能由远处望远镜观测。</desc>
+  <rect width="720" height="600" rx="28" fill="#111a24"/>
+  <text x="42" y="58" font-family="sans-serif" font-size="30" font-weight="700" fill="#f6f1e8">8月5日撞月：可提前布置的意外</text>
+  <text x="42" y="92" font-family="sans-serif" font-size="20" fill="#aebdca">示意图 · 距离和大小不按比例</text>
+  <circle cx="535" cy="315" r="145" fill="#d9d4c8"/>
+  <path d="M535 170 A145 145 0 0 1 535 460 A108 145 0 0 0 535 170" fill="#f1e5bc" opacity="0.68"/>
+  <circle cx="438" cy="276" r="18" fill="none" stroke="#6f6a63" stroke-width="5"/>
+  <circle cx="438" cy="276" r="6" fill="#b05245"/>
+  <text x="421" y="235" font-family="sans-serif" font-size="21" text-anchor="end" fill="#f6f1e8">爱因斯坦环形山附近</text>
+  <path d="M120 310 C230 270 320 282 397 278" fill="none" stroke="#d6aa55" stroke-width="7" stroke-dasharray="16 13" stroke-linecap="round"/>
+  <path d="M383 261 L408 278 L383 295" fill="none" stroke="#d6aa55" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(135 302) rotate(-10)">
+    <rect x="-48" y="-16" width="96" height="32" rx="10" fill="#d7e2e8"/>
+    <path d="M48 -12 L75 0 L48 12" fill="#b05245"/>
+    <path d="M-48 -12 L-68 -25 L-61 0 L-68 25 L-48 12" fill="#6d8290"/>
+  </g>
+  <text x="137" y="372" font-family="sans-serif" font-size="21" text-anchor="middle" fill="#d7e2e8">约3900公斤</text>
+  <text x="137" y="402" font-family="sans-serif" font-size="21" text-anchor="middle" fill="#d7e2e8">约2.43公里/秒</text>
+  <path d="M438 276 Q369 180 296 165" fill="none" stroke="#f1e5bc" stroke-width="5" stroke-dasharray="10 10"/>
+  <path d="M438 276 Q350 363 270 398" fill="none" stroke="#f1e5bc" stroke-width="5" stroke-dasharray="10 10"/>
+  <text x="215" y="159" font-family="sans-serif" font-size="21" text-anchor="middle" fill="#f6f1e8">不到一秒的闪光？</text>
+  <text x="202" y="440" font-family="sans-serif" font-size="21" text-anchor="middle" fill="#f6f1e8">扬尘是否持续可见？</text>
+  <rect x="42" y="520" width="636" height="50" rx="12" fill="#233340"/>
+  <text x="360" y="552" font-family="sans-serif" font-size="20" text-anchor="middle" fill="#d7e2e8">北京时间：2026年8月5日约14:35</text>
+</svg>

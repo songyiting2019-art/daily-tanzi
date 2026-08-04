@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 600" role="img" aria-labelledby="title desc">
+  <title id="title">日美联合买入日元的机制示意图</title>
+  <desc id="desc">日本与美国通过卖出其他货币、买入日元，增加日元需求并向市场发出抑制失序波动的信号。</desc>
+  <rect width="720" height="600" rx="28" fill="#f6f1e8"/>
+  <text x="42" y="58" font-family="sans-serif" font-size="30" font-weight="700" fill="#1d2924">联合干预怎样托住日元</text>
+  <text x="42" y="92" font-family="sans-serif" font-size="20" fill="#665f54">方向示意 · 不代表操作规模或目标汇率</text>
+  <g font-family="sans-serif" text-anchor="middle">
+    <rect x="65" y="128" width="590" height="92" rx="18" fill="#fffdf8" stroke="#b8b0a2" stroke-width="2"/>
+    <text x="360" y="168" font-size="25" font-weight="700" fill="#1d2924">日美官方账户协调进入外汇市场</text>
+    <text x="360" y="199" font-size="20" fill="#52635b">针对快速、失序的单边抛售</text>
+    <path d="M360 230 V263" stroke="#9b8a70" stroke-width="7" stroke-linecap="round"/>
+    <path d="M344 250 L360 269 L376 250" fill="none" stroke="#9b8a70" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="120" y="278" width="480" height="104" rx="20" fill="#e3ece7" stroke="#315f53" stroke-width="3"/>
+    <text x="360" y="319" font-size="22" fill="#29483f">卖出其他货币</text>
+    <text x="360" y="357" font-size="31" font-weight="700" fill="#315f53">买入日元 · 增加日元需求</text>
+    <path d="M360 392 V425" stroke="#b05245" stroke-width="7" stroke-linecap="round"/>
+    <path d="M344 412 L360 431 L376 412" fill="none" stroke="#b05245" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="190" y="440" width="340" height="68" rx="18" fill="#f3dfda"/>
+    <text x="360" y="483" font-size="27" font-weight="700" fill="#8d3e34">短期：日元需求与预期走强</text>
+  </g>
+  <rect x="42" y="530" width="636" height="44" rx="12" fill="#fffdf8" stroke="#d6cbbc"/>
+  <text x="360" y="559" font-family="sans-serif" font-size="19" text-anchor="middle" fill="#52635b">长期仍要看利差、能源进口和财政政策。</text>
+</svg>
