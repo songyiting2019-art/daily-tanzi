@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="680" viewBox="0 0 760 680" role="img" aria-labelledby="title desc">
+  <title id="title">热敏纸受热显色示意图</title>
+  <desc id="desc">打印头加热纸面后，隐色染料和显色剂在局部接触变黑；之后光、热和溶剂会影响图像。</desc>
+  <rect width="760" height="680" rx="34" fill="#f4efe6"/>
+  <text x="46" y="62" fill="#173f35" font-family="PingFang SC, sans-serif" font-size="28" font-weight="700">小票不喷墨：它让纸自己显色</text>
+  <text x="46" y="94" fill="#6f776f" font-family="PingFang SC, sans-serif" font-size="17">直接热敏打印的简化机制</text>
+  <rect x="70" y="132" width="620" height="88" rx="18" fill="#173f35"/>
+  <text x="96" y="172" fill="#fff" font-family="PingFang SC, sans-serif" font-size="22" font-weight="700">热敏打印头</text>
+  <g fill="#d6a24d">
+    <rect x="270" y="188" width="18" height="48" rx="8"/><rect x="322" y="188" width="18" height="48" rx="8"/>
+    <rect x="374" y="188" width="18" height="48" rx="8"/><rect x="426" y="188" width="18" height="48" rx="8"/>
+  </g>
+  <text x="488" y="187" fill="#e7decf" font-family="PingFang SC, sans-serif" font-size="17">只加热要写字的位置</text>
+  <rect x="70" y="258" width="620" height="170" rx="20" fill="#fffdf9" stroke="#d7d0c4" stroke-width="2"/>
+  <text x="96" y="293" fill="#9a7132" font-family="PingFang SC, sans-serif" font-size="18" font-weight="700">热敏涂层</text>
+  <g font-family="PingFang SC, sans-serif" font-size="17" text-anchor="middle">
+    <circle cx="186" cy="354" r="40" fill="#dce8ee"/><text x="186" y="350" fill="#335f6a">隐色</text><text x="186" y="374" fill="#335f6a">染料</text>
+    <text x="262" y="362" fill="#7b6847" font-size="28">＋</text>
+    <circle cx="336" cy="354" r="40" fill="#eee1be"/><text x="336" y="350" fill="#7a5a28">酸性</text><text x="336" y="374" fill="#7a5a28">显色剂</text>
+    <text x="412" y="362" fill="#7b6847" font-size="28">＋</text>
+    <circle cx="486" cy="354" r="40" fill="#dce8e1"/><text x="486" y="350" fill="#275b4d">敏化剂</text><text x="486" y="374" fill="#275b4d">助熔</text>
+    <path d="M545 354 h54" stroke="#b05d45" stroke-width="8" stroke-linecap="round"/>
+    <path d="M588 354 l-20 -15 v30 z" fill="#b05d45"/>
+    <rect x="604" y="320" width="58" height="68" rx="12" fill="#1d2924"/><text x="633" y="360" fill="#fff" font-size="21">黑</text>
+  </g>
+  <rect x="70" y="454" width="620" height="168" rx="20" fill="#edd8d2"/>
+  <text x="96" y="493" fill="#8e4938" font-family="PingFang SC, sans-serif" font-size="20" font-weight="700">打印后，涂层仍会继续反应</text>
+  <g font-family="PingFang SC, sans-serif" font-size="18" fill="#5f4943">
+    <text x="104" y="538">高温 → 背景可能一起变暗</text>
+    <text x="104" y="574">光照、油脂、部分溶剂 → 图像加速褪色或变色</text>
+  </g>
+  <text x="70" y="651" fill="#6f776f" font-family="PingFang SC, sans-serif" font-size="17">重要小票：尽早扫描或拍照备份，不把唯一证据留给不稳定涂层。</text>
+</svg>

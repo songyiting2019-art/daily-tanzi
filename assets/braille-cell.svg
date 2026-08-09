@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="680" viewBox="0 0 760 680" role="img" aria-labelledby="title desc">
+  <title id="title">十二点夜间书写与六点盲文单元对比</title>
+  <desc id="desc">十二点单元高于一个指腹的触读范围，六点单元可以被一次覆盖，并能形成六十三种非空图形。</desc>
+  <rect width="760" height="680" rx="34" fill="#f4efe6"/>
+  <text x="46" y="62" fill="#173f35" font-family="PingFang SC, sans-serif" font-size="28" font-weight="700">为什么是六个点</text>
+  <text x="46" y="94" fill="#6f776f" font-family="PingFang SC, sans-serif" font-size="17">先让一个指腹摸完整格，再安排字符</text>
+  <rect x="58" y="132" width="290" height="420" rx="24" fill="#fffdf9" stroke="#d7d0c4"/>
+  <text x="90" y="175" fill="#8e4938" font-family="PingFang SC, sans-serif" font-size="22" font-weight="700">巴比耶：12点</text>
+  <text x="90" y="205" fill="#6f776f" font-family="PingFang SC, sans-serif" font-size="17">两列六行 · 单元太高</text>
+  <g fill="#b98a49">
+    <circle cx="160" cy="258" r="17"/><circle cx="244" cy="258" r="17"/>
+    <circle cx="160" cy="308" r="17"/><circle cx="244" cy="308" r="17"/>
+    <circle cx="160" cy="358" r="17"/><circle cx="244" cy="358" r="17"/>
+    <circle cx="160" cy="408" r="17"/><circle cx="244" cy="408" r="17"/>
+    <circle cx="160" cy="458" r="17"/><circle cx="244" cy="458" r="17"/>
+    <circle cx="160" cy="508" r="17"/><circle cx="244" cy="508" r="17"/>
+  </g>
+  <path d="M104 278 C68 318 68 422 104 462" fill="none" stroke="#b05d45" stroke-width="8" stroke-linecap="round"/>
+  <text x="78" y="502" fill="#8e4938" font-family="PingFang SC, sans-serif" font-size="16" transform="rotate(-90 78 502)">一个指腹摸不全</text>
+  <rect x="412" y="132" width="290" height="420" rx="24" fill="#dce8e1" stroke="#b8cdc2"/>
+  <text x="444" y="175" fill="#17544e" font-family="PingFang SC, sans-serif" font-size="22" font-weight="700">布莱叶：6点</text>
+  <text x="444" y="205" fill="#4d675f" font-family="PingFang SC, sans-serif" font-size="17">两列三行 · 一次触读</text>
+  <g fill="#173f35">
+    <circle cx="506" cy="294" r="24"/><circle cx="610" cy="294" r="24"/>
+    <circle cx="506" cy="374" r="24"/><circle cx="610" cy="374" r="24"/>
+    <circle cx="506" cy="454" r="24"/><circle cx="610" cy="454" r="24"/>
+  </g>
+  <g fill="#fff" font-family="PingFang SC, sans-serif" font-size="16" font-weight="700" text-anchor="middle">
+    <text x="506" y="300">1</text><text x="610" y="300">4</text>
+    <text x="506" y="380">2</text><text x="610" y="380">5</text>
+    <text x="506" y="460">3</text><text x="610" y="460">6</text>
+  </g>
+  <ellipse cx="558" cy="374" rx="110" ry="142" fill="none" stroke="#1f6b63" stroke-width="8" stroke-dasharray="12 10"/>
+  <rect x="104" y="580" width="552" height="64" rx="18" fill="#173f35"/>
+  <text x="380" y="621" fill="#fff" font-family="PingFang SC, sans-serif" font-size="22" font-weight="700" text-anchor="middle">2⁶ − 1 ＝ 63种非空图形</text>
+</svg>
