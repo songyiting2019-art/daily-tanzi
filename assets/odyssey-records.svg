@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="620" viewBox="0 0 760 620" role="img" aria-labelledby="title desc">
+  <title id="title">奥德赛票房纪录的两种口径</title>
+  <desc id="desc">全球总票房中奥德赛十一点零四亿美元超过黑暗骑士崛起约十点八亿美元；北美IMAX票房一点四七三亿美元为另一项独立纪录。</desc>
+  <rect width="760" height="620" rx="34" fill="#f4efe6"/>
+  <text x="46" y="64" fill="#173f35" font-family="PingFang SC, sans-serif" font-size="29" font-weight="700">“最高票房”要先看是哪把尺子</text>
+  <text x="46" y="100" fill="#6f776f" font-family="PingFang SC, sans-serif" font-size="17">2026年8月9日片方估算 · 未按通胀调整</text>
+  <rect x="46" y="142" width="668" height="250" rx="24" fill="#fffaf2" stroke="#d8d0c4"/>
+  <text x="76" y="186" fill="#7b6847" font-family="PingFang SC, sans-serif" font-size="17" font-weight="700">全球总票房 · 诺兰导演作品</text>
+  <text x="76" y="234" fill="#173f35" font-family="PingFang SC, sans-serif" font-size="20">《奥德赛》</text>
+  <rect x="206" y="210" width="458" height="34" rx="17" fill="#1f6b63"/>
+  <text x="676" y="234" text-anchor="end" fill="#173f35" font-family="PingFang SC, sans-serif" font-size="18" font-weight="700">11.04亿美元</text>
+  <text x="76" y="302" fill="#173f35" font-family="PingFang SC, sans-serif" font-size="20">《黑暗骑士崛起》</text>
+  <rect x="206" y="278" width="448" height="34" rx="17" fill="#9ab7ad"/>
+  <text x="676" y="302" text-anchor="end" fill="#173f35" font-family="PingFang SC, sans-serif" font-size="18" font-weight="700">约10.8亿美元</text>
+  <text x="76" y="354" fill="#6f776f" font-family="PingFang SC, sans-serif" font-size="16">结论：导演个人全球票房新高，不是影史总冠军</text>
+  <rect x="46" y="422" width="668" height="150" rx="24" fill="#dce8ee" stroke="#b8ccd5"/>
+  <text x="76" y="466" fill="#2e6e87" font-family="PingFang SC, sans-serif" font-size="17" font-weight="700">北美IMAX票房 · 另一项独立纪录</text>
+  <text x="76" y="522" fill="#173f35" font-family="PingFang SC, sans-serif" font-size="25" font-weight="700">《奥德赛》 1.473亿美元</text>
+  <text x="76" y="551" fill="#55737e" font-family="PingFang SC, sans-serif" font-size="16">地区、格式、时间点都与上方不同</text>
+</svg>
