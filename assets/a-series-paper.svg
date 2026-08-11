@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" role="img" aria-labelledby="title desc">
+  <title id="title">A4纸对半切成A5且比例不变</title>
+  <desc id="desc">A4纸长宽比为根号二，对半后两张A5仍保持根号二比例。</desc>
+  <rect width="960" height="560" rx="36" fill="#f4efe6"/>
+  <text x="65" y="68" font-family="sans-serif" font-size="30" font-weight="700" fill="#1d2924">√2 让“面积减半”和“形状不变”同时成立</text>
+  <rect x="120" y="102" width="270" height="382" rx="5" fill="#fff" stroke="#315f54" stroke-width="6"/>
+  <line x1="120" y1="293" x2="390" y2="293" stroke="#c56e4f" stroke-width="6" stroke-dasharray="14 12"/>
+  <text x="220" y="205" font-family="sans-serif" font-size="36" font-weight="700" fill="#315f54">A5</text>
+  <text x="220" y="407" font-family="sans-serif" font-size="36" font-weight="700" fill="#315f54">A5</text>
+  <text x="139" y="515" font-family="sans-serif" font-size="22" fill="#1d2924">A4：210 × 297 mm</text>
+  <path d="M445 270 H575" stroke="#7b6847" stroke-width="8" stroke-linecap="round"/>
+  <path d="M555 245 L585 270 555 295" fill="none" stroke="#7b6847" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="650" y="160" width="190" height="269" rx="5" fill="#fff" stroke="#c56e4f" stroke-width="6"/>
+  <text x="715" y="300" font-family="sans-serif" font-size="38" font-weight="700" fill="#c56e4f">A5</text>
+  <text x="635" y="472" font-family="sans-serif" font-size="22" fill="#1d2924">148 × 210 mm</text>
+  <text x="525" y="125" font-family="sans-serif" font-size="24" fill="#315f54">长边 ÷ 短边 = √2</text>
+  <text x="500" y="345" font-family="sans-serif" font-size="22" fill="#7b6847">转向后仍是同一比例</text>
+  <text x="500" y="395" font-family="sans-serif" font-size="22" fill="#7b6847">面积变为 1/2</text>
+  <text x="65" y="548" font-family="sans-serif" font-size="18" fill="#7b6847">原创示意图 · 尺寸为标准取整值 · 据 ISO 216 与剑桥大学资料整理</text>
+</svg>
