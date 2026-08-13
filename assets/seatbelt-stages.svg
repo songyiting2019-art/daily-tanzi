@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">安全带约束的四个阶段</title>
+  <desc id="desc">从正常移动到卷收器锁止、预紧器收紧和限力器受控放带的示意。</desc>
+  <rect width="1200" height="680" rx="42" fill="#e7e3db"/>
+  <text x="72" y="86" fill="#173f35" font-family="PingFang SC, sans-serif" font-size="40" font-weight="700">安全带约束不是一个动作</text>
+  <text x="72" y="128" fill="#66736c" font-family="PingFang SC, sans-serif" font-size="24">不同车型的传感器与配置会有差异</text>
+  <g font-family="PingFang SC, sans-serif">
+    <g transform="translate(60 190)">
+      <rect width="250" height="370" rx="28" fill="#fff" opacity=".86"/>
+      <circle cx="125" cy="92" r="52" fill="#dce8e1"/><path d="M102 92h46M125 69v46" stroke="#173f35" stroke-width="8" stroke-linecap="round"/>
+      <path d="M70 180h110" stroke="#b98639" stroke-width="16" stroke-linecap="round"/><path d="M62 180l28-20v40z" fill="#b98639"/><path d="M188 180l-28-20v40z" fill="#b98639"/>
+      <text x="125" y="266" text-anchor="middle" fill="#173f35" font-size="31" font-weight="700">正常移动</text>
+      <text x="125" y="310" text-anchor="middle" fill="#66736c" font-size="22">卷簧收回余量</text><text x="125" y="340" text-anchor="middle" fill="#66736c" font-size="22">身体仍可前倾</text>
+    </g>
+    <g transform="translate(340 190)">
+      <rect width="250" height="370" rx="28" fill="#fff" opacity=".86"/>
+      <circle cx="125" cy="92" r="52" fill="#edd8d2"/><path d="M125 56v72M89 92h72" stroke="#914735" stroke-width="12" stroke-linecap="round"/>
+      <path d="M72 180h106" stroke="#914735" stroke-width="18" stroke-linecap="round"/><rect x="105" y="155" width="40" height="50" rx="7" fill="#173f35"/>
+      <text x="125" y="266" text-anchor="middle" fill="#173f35" font-size="31" font-weight="700">紧急锁止</text>
+      <text x="125" y="310" text-anchor="middle" fill="#66736c" font-size="22">快速抽带或</text><text x="125" y="340" text-anchor="middle" fill="#66736c" font-size="22">车辆运动触发</text>
+    </g>
+    <g transform="translate(620 190)">
+      <rect width="250" height="370" rx="28" fill="#fff" opacity=".86"/>
+      <circle cx="125" cy="92" r="52" fill="#eee1be"/><path d="M78 92h94M105 65l-28 27 28 27" fill="none" stroke="#9a7132" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M178 180H72" stroke="#9a7132" stroke-width="18" stroke-linecap="round"/><path d="M72 180l30-22v44z" fill="#9a7132"/>
+      <text x="125" y="266" text-anchor="middle" fill="#173f35" font-size="31" font-weight="700">预紧</text>
+      <text x="125" y="310" text-anchor="middle" fill="#66736c" font-size="22">碰撞时主动</text><text x="125" y="340" text-anchor="middle" fill="#66736c" font-size="22">收走松弛</text>
+    </g>
+    <g transform="translate(900 190)">
+      <rect width="250" height="370" rx="28" fill="#fff" opacity=".86"/>
+      <circle cx="125" cy="92" r="52" fill="#dce8ee"/><path d="M80 92h92M145 65l28 27-28 27" fill="none" stroke="#35647a" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M72 180h106" stroke="#35647a" stroke-width="18" stroke-linecap="round"/><path d="M178 180l-30-22v44z" fill="#35647a"/>
+      <text x="125" y="266" text-anchor="middle" fill="#173f35" font-size="31" font-weight="700">限力</text>
+      <text x="125" y="310" text-anchor="middle" fill="#66736c" font-size="22">载荷过高时</text><text x="125" y="340" text-anchor="middle" fill="#66736c" font-size="22">受控放出少量</text>
+    </g>
+  </g>
+  <path d="M310 375h30M590 375h30M870 375h30" stroke="#9a7132" stroke-width="6" stroke-linecap="round"/>
+  <text x="600" y="626" text-anchor="middle" fill="#66736c" font-family="PingFang SC, sans-serif" font-size="22">阶段顺序示意，不代表所有碰撞都会触发全部装置</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">大众平装书发展时间线</title>
+  <desc id="desc">说明软封廉价读物早于1935年，企鹅图书和Pocket Books改变了标准化与分发。</desc>
+  <rect width="1200" height="680" rx="42" fill="#e7e3db"/>
+  <text x="72" y="86" fill="#173f35" font-family="PingFang SC, sans-serif" font-size="40" font-weight="700">平装书的变化，重点不只在封面</text>
+  <text x="72" y="128" fill="#66736c" font-family="PingFang SC, sans-serif" font-size="24">形式早已有之，1930年代把低价、书目和大众渠道接成系统</text>
+  <path d="M125 352H1075" stroke="#b99b68" stroke-width="8" stroke-linecap="round"/>
+  <g font-family="PingFang SC, sans-serif">
+    <g transform="translate(145 0)">
+      <circle cx="0" cy="352" r="22" fill="#173f35"/>
+      <rect x="-90" y="195" width="180" height="112" rx="16" fill="#dce8e1"/>
+      <path d="M-52 218h104M-52 242h104M-52 266h76" stroke="#173f35" stroke-width="8" stroke-linecap="round"/>
+      <text x="0" y="414" text-anchor="middle" fill="#173f35" font-size="31" font-weight="700">19世纪</text>
+      <text x="0" y="456" text-anchor="middle" fill="#66736c" font-size="22">铁路读物、廉价小说</text><text x="0" y="488" text-anchor="middle" fill="#66736c" font-size="22">软封面已经存在</text>
+    </g>
+    <g transform="translate(600 0)">
+      <circle cx="0" cy="352" r="22" fill="#b98639"/>
+      <rect x="-72" y="170" width="144" height="140" rx="12" fill="#fff" stroke="#b98639" stroke-width="8"/>
+      <rect x="-72" y="170" width="144" height="45" rx="8" fill="#d47a43"/><text x="0" y="202" text-anchor="middle" fill="#fff" font-size="18" font-weight="700">PENGUIN</text>
+      <text x="0" y="414" text-anchor="middle" fill="#173f35" font-size="31" font-weight="700">1935 · 企鹅图书</text>
+      <text x="0" y="456" text-anchor="middle" fill="#66736c" font-size="22">六便士、统一规格</text><text x="0" y="488" text-anchor="middle" fill="#66736c" font-size="22">优质书目进入车站书摊</text>
+    </g>
+    <g transform="translate(1040 0)">
+      <circle cx="0" cy="352" r="22" fill="#35647a"/>
+      <rect x="-72" y="170" width="144" height="140" rx="12" fill="#fff" stroke="#35647a" stroke-width="8"/>
+      <path d="M-48 202h96M-48 229h96M-48 256h68" stroke="#35647a" stroke-width="8" stroke-linecap="round"/>
+      <text x="0" y="414" text-anchor="middle" fill="#173f35" font-size="31" font-weight="700">1939 · Pocket Books</text>
+      <text x="0" y="456" text-anchor="middle" fill="#66736c" font-size="22">美国药店、报摊</text><text x="0" y="488" text-anchor="middle" fill="#66736c" font-size="22">杂货渠道扩大分发</text>
+    </g>
+  </g>
+  <g font-family="PingFang SC, sans-serif" font-size="22" fill="#66736c"><text x="600" y="604" text-anchor="middle">低价需要大销量，大销量又依赖书店之外的零售网络</text></g>
+</svg>
