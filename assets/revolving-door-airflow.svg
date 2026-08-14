@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" role="img" aria-labelledby="title desc">
+  <title id="title">平开门与旋转门的气流对比</title><desc id="desc">左侧平开门形成连续通道，右侧旋转门把入口分成多个气舱。</desc>
+  <rect width="760" height="420" rx="28" fill="#f6f1e8"/>
+  <text x="190" y="48" text-anchor="middle" font-size="26" font-family="sans-serif" font-weight="700" fill="#1d3340">平开门：连续开口</text>
+  <text x="570" y="48" text-anchor="middle" font-size="26" font-family="sans-serif" font-weight="700" fill="#1d3340">旋转门：分隔气舱</text>
+  <rect x="55" y="84" width="270" height="270" rx="18" fill="#d9edf0" stroke="#416b75" stroke-width="3"/>
+  <rect x="55" y="84" width="70" height="270" fill="#e9d6b9"/>
+  <text x="90" y="375" text-anchor="middle" font-size="19" font-family="sans-serif" fill="#5f4c35">室外</text>
+  <text x="260" y="375" text-anchor="middle" font-size="19" font-family="sans-serif" fill="#315864">室内</text>
+  <path d="M112 210 H273" stroke="#d44f3f" stroke-width="12" stroke-linecap="round"/><path d="M275 210 l-28 -19 v38 z" fill="#d44f3f"/>
+  <path d="M127 120 v180" stroke="#1d3340" stroke-width="8"/><path d="M127 120 l96 54" stroke="#1d3340" stroke-width="9" stroke-linecap="round"/>
+  <text x="215" y="270" text-anchor="middle" font-size="20" font-family="sans-serif" fill="#b23b30">气流直接穿过</text>
+  <circle cx="570" cy="218" r="132" fill="#d9edf0" stroke="#416b75" stroke-width="5"/>
+  <path d="M570 86 V350 M438 218 H702" stroke="#1d3340" stroke-width="10"/>
+  <circle cx="570" cy="218" r="15" fill="#1d3340"/>
+  <rect x="426" y="178" width="26" height="80" fill="#e9d6b9"/><rect x="688" y="178" width="26" height="80" fill="#d9edf0"/>
+  <path d="M470 155 C505 108 554 92 604 101" fill="none" stroke="#d44f3f" stroke-width="8" stroke-linecap="round" stroke-dasharray="12 12"/><path d="M607 101 l-24 -13 6 27 z" fill="#d44f3f"/>
+  <text x="570" y="386" text-anchor="middle" font-size="20" font-family="sans-serif" fill="#315864">门舱轮流带入少量空气</text>
+</svg>

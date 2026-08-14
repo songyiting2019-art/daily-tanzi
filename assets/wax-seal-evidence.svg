@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" role="img" aria-labelledby="title desc">
+  <title id="title">火漆封印的证据链</title><desc id="desc">印章在软蜡上压出图案，连接使用者身份与封口完整性。</desc>
+  <rect width="760" height="420" rx="28" fill="#f8f0e6"/>
+  <text x="380" y="48" text-anchor="middle" font-size="27" font-family="sans-serif" font-weight="700" fill="#3d2e2b">印章 + 软蜡 = 可识别的封口痕迹</text>
+  <rect x="60" y="115" width="165" height="175" rx="22" fill="#c9a36a" stroke="#694b2b" stroke-width="4"/>
+  <circle cx="142" cy="202" r="56" fill="#7a5935"/><path d="M113 202 h58 M142 173 v58" stroke="#f5dfb9" stroke-width="9"/>
+  <text x="142" y="324" text-anchor="middle" font-size="22" font-family="sans-serif" fill="#49372b">专属刻模</text>
+  <path d="M245 202 H330" stroke="#7e6b5f" stroke-width="7"/><path d="M333 202 l-22 -15 v30 z" fill="#7e6b5f"/>
+  <circle cx="395" cy="202" r="65" fill="#b63c32" stroke="#7c241e" stroke-width="5"/><path d="M365 202 h60 M395 172 v60" stroke="#f0b9a9" stroke-width="10"/>
+  <text x="395" y="324" text-anchor="middle" font-size="22" font-family="sans-serif" fill="#49372b">蜡上压印</text>
+  <path d="M462 202 H545" stroke="#7e6b5f" stroke-width="7"/><path d="M548 202 l-22 -15 v30 z" fill="#7e6b5f"/>
+  <rect x="570" y="115" width="135" height="175" rx="14" fill="#fffdf8" stroke="#8b796b" stroke-width="4"/>
+  <path d="M570 205 l67 48 68 -48" fill="none" stroke="#8b796b" stroke-width="4"/>
+  <circle cx="638" cy="220" r="30" fill="#b63c32"/><path d="M624 220 h28 M638 206 v28" stroke="#f0b9a9" stroke-width="6"/>
+  <text x="638" y="324" text-anchor="middle" font-size="22" font-family="sans-serif" fill="#49372b">身份 + 拆封痕迹</text>
+  <text x="380" y="382" text-anchor="middle" font-size="19" font-family="sans-serif" fill="#766157">颜色不等于身份；关键是图案、使用权和文书来源</text>
+</svg>
