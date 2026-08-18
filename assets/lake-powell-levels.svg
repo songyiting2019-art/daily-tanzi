@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">鲍威尔湖关键水位示意</title>
+  <desc id="desc">显示当前3519.91英尺水位距离3490英尺最低发电水位约30英尺，并标注该图不按比例绘制。</desc>
+  <rect width="1200" height="720" rx="36" fill="#f4efe6"/>
+  <text x="70" y="82" font-size="42" font-family="sans-serif" font-weight="700" fill="#1d2924">鲍威尔湖：关键不是一条纪录，而是离发电阈值多远</text>
+  <text x="70" y="125" font-size="25" font-family="sans-serif" fill="#665e52">高度压缩示意，不按实际比例</text>
+  <rect x="120" y="185" width="820" height="410" rx="22" fill="#e5d8c4" stroke="#8f806c" stroke-width="4"/>
+  <path d="M120 300 C270 260 410 330 555 292 C705 253 820 320 940 282 L940 595 L120 595 Z" fill="#77a9bd"/>
+  <line x1="120" y1="300" x2="940" y2="300" stroke="#246b86" stroke-width="8"/>
+  <line x1="120" y1="460" x2="940" y2="460" stroke="#b44b3f" stroke-width="8" stroke-dasharray="22 15"/>
+  <text x="160" y="270" font-size="32" font-family="sans-serif" font-weight="700" fill="#15546c">当前：3519.91英尺</text>
+  <text x="160" y="438" font-size="32" font-family="sans-serif" font-weight="700" fill="#87372f">最低发电水位：3490英尺</text>
+  <line x1="1010" y1="300" x2="1010" y2="460" stroke="#1d2924" stroke-width="5"/>
+  <path d="M990 320 L1010 300 L1030 320 M990 440 L1010 460 L1030 440" fill="none" stroke="#1d2924" stroke-width="5"/>
+  <text x="1050" y="355" font-size="31" font-family="sans-serif" font-weight="700" fill="#1d2924">约30英尺</text>
+  <text x="1050" y="397" font-size="31" font-family="sans-serif" font-weight="700" fill="#1d2924">约9.1米</text>
+  <text x="120" y="650" font-size="27" font-family="sans-serif" fill="#665e52">达到最低发电水位才会失去常规水电能力；当前尚未停机。</text>
+</svg>
