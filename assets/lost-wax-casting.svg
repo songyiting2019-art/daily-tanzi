@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 420" role="img" aria-labelledby="title desc">
+  <title id="title">失蜡铸造五步示意</title>
+  <desc id="desc">蜡模被耐火材料包覆，加热后蜡流出形成空腔，浇入青铜并破模取件。</desc>
+  <defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 10 5 0 10z" fill="#84705c"/></marker></defs>
+  <rect width="1100" height="420" rx="28" fill="#f5efe4"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle" fill="#443b32">
+    <g transform="translate(110 90)"><path d="M0 110c35-90 115-90 150 0l-25 80H25z" fill="#efc45d"/><path d="M75 0v72" stroke="#efc45d" stroke-width="22"/><text x="75" y="240" font-size="24">1 蜡模</text></g>
+    <g transform="translate(320 90)"><path d="M0 200V40Q75-15 150 40v160z" fill="#b88b68"/><path d="M48 150c12-65 42-65 54 0" fill="none" stroke="#efc45d" stroke-width="30"/><text x="75" y="240" font-size="24">2 包覆</text></g>
+    <g transform="translate(530 90)"><path d="M0 200V40Q75-15 150 40v160z" fill="#b88b68"/><path d="M48 150c12-65 42-65 54 0" fill="none" stroke="#f5efe4" stroke-width="30"/><path d="M75 150v55" stroke="#efc45d" stroke-width="10"/><text x="75" y="240" font-size="24">3 脱蜡</text></g>
+    <g transform="translate(740 90)"><path d="M0 200V40Q75-15 150 40v160z" fill="#b88b68"/><path d="M48 150c12-65 42-65 54 0" fill="none" stroke="#b86a37" stroke-width="30"/><path d="M75 8v70" stroke="#b86a37" stroke-width="13"/><text x="75" y="240" font-size="24">4 浇铜</text></g>
+    <g transform="translate(950 90)"><path d="M8 110c30-90 105-90 134 0l-24 80H32z" fill="#a95f32"/><path d="M75 0v72" stroke="#a95f32" stroke-width="20"/><text x="75" y="240" font-size="24">5 破模取件</text></g>
+  </g>
+  <g stroke="#84705c" stroke-width="5" marker-end="url(#arr)"><path d="M270 190h35"/><path d="M480 190h35"/><path d="M690 190h35"/><path d="M900 190h35"/></g>
+  <text x="550" y="386" text-anchor="middle" font-size="20" fill="#716457">原创流程示意；材料、分件与浇注系统因地区和时代而异</text>
+</svg>
