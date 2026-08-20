@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" role="img" aria-labelledby="title desc">
+  <title id="title">高跟鞋含义变化时间线</title>
+  <desc id="desc">从西亚骑乘鞋跟，到十七世纪欧洲男性精英服饰，再到现代高跟鞋性别含义的变化。</desc>
+  <rect width="1000" height="560" rx="32" fill="#f5efe3"/>
+  <text x="52" y="72" fill="#243630" font-family="sans-serif" font-size="34" font-weight="700">鞋跟的含义，跟着使用场景改变</text>
+  <path d="M118 296H882" stroke="#b88b4b" stroke-width="7" stroke-linecap="round"/>
+  <g font-family="sans-serif">
+    <circle cx="166" cy="296" r="18" fill="#315f58"/>
+    <text x="166" y="350" text-anchor="middle" fill="#20352f" font-size="24" font-weight="700">西亚骑乘</text>
+    <text x="166" y="383" text-anchor="middle" fill="#5c6c66" font-size="19">鞋跟卡住马镫</text>
+    <path d="M105 228h86l31 25-18 22H91z" fill="#8d5e3b" stroke="#263b35" stroke-width="5"/>
+    <path d="M184 271v25h27v-35" fill="#8d5e3b" stroke="#263b35" stroke-width="5"/>
+
+    <circle cx="500" cy="296" r="18" fill="#315f58"/>
+    <text x="500" y="350" text-anchor="middle" fill="#20352f" font-size="24" font-weight="700">17世纪欧洲</text>
+    <text x="500" y="383" text-anchor="middle" fill="#5c6c66" font-size="19">男性精英服饰</text>
+    <path d="M438 221h96l49 30-19 24H421z" fill="#b34f45" stroke="#263b35" stroke-width="5"/>
+    <path d="M535 267v29h28v-42" fill="#d6a44e" stroke="#263b35" stroke-width="5"/>
+    <circle cx="469" cy="240" r="8" fill="#f1cf77"/><circle cx="495" cy="240" r="8" fill="#f1cf77"/>
+
+    <circle cx="834" cy="296" r="18" fill="#315f58"/>
+    <text x="834" y="350" text-anchor="middle" fill="#20352f" font-size="24" font-weight="700">近现代</text>
+    <text x="834" y="383" text-anchor="middle" fill="#5c6c66" font-size="19">更常与女性时尚相连</text>
+    <path d="M777 232c38 0 75-12 91-31l18 46-20 29h-105z" fill="#4f7690" stroke="#263b35" stroke-width="5"/>
+    <path d="M858 270l20 26h18l-10-49" fill="#4f7690" stroke="#263b35" stroke-width="5"/>
+
+    <text x="166" y="452" text-anchor="middle" fill="#8b6a3d" font-size="18">功能</text>
+    <text x="500" y="452" text-anchor="middle" fill="#8b6a3d" font-size="18">身份</text>
+    <text x="834" y="452" text-anchor="middle" fill="#8b6a3d" font-size="18">性别符号</text>
+    <text x="500" y="510" text-anchor="middle" fill="#526963" font-size="20">这不是唯一的鞋履起源线，而是一条可由藏品追踪的流变路径</text>
+  </g>
+</svg>
