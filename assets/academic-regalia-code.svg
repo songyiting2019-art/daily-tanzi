@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">美国常见学位服编码</title>
+  <desc id="desc">学位服的袍型常表示学位层级，兜帽内衬表示授予学位的学校，兜帽绒边颜色表示学科。</desc>
+  <rect width="960" height="540" rx="32" fill="#f3f0f7"/>
+  <text x="60" y="70" font-family="sans-serif" font-size="32" font-weight="700" fill="#302c42">同一套礼服上，三种位置讲三件事</text>
+  <g font-family="sans-serif" text-anchor="middle">
+    <rect x="70" y="125" width="250" height="300" rx="26" fill="#fff" stroke="#71688f" stroke-width="3"/>
+    <path d="M160 190L120 245L154 270L168 380H222L236 270L270 245L230 190Z" fill="#35334a"/>
+    <path d="M160 190L195 220L230 190" fill="none" stroke="#d6cfe6" stroke-width="10"/>
+    <text x="195" y="465" font-size="25" font-weight="700" fill="#302c42">袍型与袖型</text>
+    <text x="195" y="497" font-size="20" fill="#59536b">学位层级</text>
+    <rect x="355" y="125" width="250" height="300" rx="26" fill="#fff" stroke="#71688f" stroke-width="3"/>
+    <path d="M410 205C470 150 540 150 560 220C535 315 510 360 480 392C450 360 425 315 400 220Z" fill="#6f3c88" stroke="#d0a832" stroke-width="20"/>
+    <path d="M424 218C470 182 520 182 538 226" fill="none" stroke="#f3e3ac" stroke-width="30"/>
+    <text x="480" y="465" font-size="25" font-weight="700" fill="#302c42">兜帽内衬</text>
+    <text x="480" y="497" font-size="20" fill="#59536b">授予学位的学校</text>
+    <rect x="640" y="125" width="250" height="300" rx="26" fill="#fff" stroke="#71688f" stroke-width="3"/>
+    <path d="M695 205C755 150 825 150 845 220C820 315 795 360 765 392C735 360 710 315 685 220Z" fill="#303143" stroke="#5b9b68" stroke-width="22"/>
+    <text x="765" y="465" font-size="25" font-weight="700" fill="#302c42">兜帽绒边</text>
+    <text x="765" y="497" font-size="20" fill="#59536b">学科或学位类别</text>
+  </g>
+  <text x="800" y="105" font-family="sans-serif" font-size="17" text-anchor="end" fill="#6b647e">美国常见体系；各校可能有例外</text>
+</svg>

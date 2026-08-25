@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">药片能否分片的判断流程</title>
+  <desc id="desc">先查具体药品说明书是否批准分片，再检查剂型；获批后才按说明或药师建议沿刻痕分片。</desc>
+  <rect width="960" height="540" rx="32" fill="#f6f4ee"/>
+  <text x="58" y="68" font-family="sans-serif" font-size="32" font-weight="700" fill="#34332f">刻痕是线索，说明书才是许可</text>
+  <g font-family="sans-serif" text-anchor="middle">
+    <circle cx="150" cy="245" r="92" fill="#fff" stroke="#6d7c90" stroke-width="4"/>
+    <path d="M94 245A56 56 0 0 1 206 245A56 56 0 0 1 94 245Z" fill="#d8e3ef" stroke="#6d7c90" stroke-width="3"/>
+    <path d="M150 190V300" stroke="#6d7c90" stroke-width="6"/>
+    <text x="150" y="377" font-size="23" font-weight="700" fill="#34332f">看到刻痕</text>
+    <path d="M250 245H350" stroke="#7b837d" stroke-width="7"/>
+    <path d="M334 228L356 245L334 262" fill="none" stroke="#7b837d" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="365" y="155" width="230" height="180" rx="24" fill="#fff" stroke="#6e826e" stroke-width="4"/>
+    <text x="480" y="210" font-size="24" font-weight="700" fill="#304730">查本品说明书</text>
+    <text x="480" y="252" font-size="21" fill="#435d43">是否明确可分片？</text>
+    <text x="480" y="290" font-size="19" fill="#435d43">品牌・规格・剂型</text>
+    <path d="M595 210H695" stroke="#4d8660" stroke-width="7"/>
+    <path d="M679 193L701 210L679 227" fill="none" stroke="#4d8660" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="645" y="190" font-size="18" fill="#3c704d">明确获批</text>
+    <rect x="710" y="135" width="190" height="150" rx="24" fill="#dcebdd" stroke="#4d8660" stroke-width="4"/>
+    <text x="805" y="190" font-size="23" font-weight="700" fill="#2c5738">按说明或</text>
+    <text x="805" y="225" font-size="23" font-weight="700" fill="#2c5738">药师建议分片</text>
+    <path d="M480 335V405H710" fill="none" stroke="#b26051" stroke-width="7"/>
+    <path d="M694 388L716 405L694 422" fill="none" stroke="#b26051" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="570" y="390" font-size="18" fill="#8e463b">未写明 / 缓释、肠溶等疑问</text>
+    <rect x="725" y="345" width="175" height="120" rx="24" fill="#f2d8d2" stroke="#b26051" stroke-width="4"/>
+    <text x="812" y="397" font-size="23" font-weight="700" fill="#72372f">先别掰</text>
+    <text x="812" y="432" font-size="19" fill="#72372f">询问医生或药师</text>
+  </g>
+  <text x="58" y="510" font-family="sans-serif" font-size="18" fill="#5a5852">不要一次把整瓶药片全部拆分；分片后更容易受潮、碎裂或失去稳定性。</text>
+</svg>
