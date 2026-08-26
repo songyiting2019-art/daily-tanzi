@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">潮汐调和分析把多个周期波叠加成预测曲线示意</title>
+  <desc id="desc">左侧是太阳、月球等周期对应的多条余弦曲线，经过测站确定各自振幅和相位后，在右侧相加形成当地潮位预测。</desc>
+  <rect width="960" height="540" rx="34" fill="#f4efe6"/>
+  <text x="66" y="69" font-family="sans-serif" font-size="28" font-weight="700" fill="#1d2924">潮汐表不是猜浪高，而是把周期叠起来</text>
+  <text x="66" y="108" font-family="sans-serif" font-size="18" fill="#6d604d">同一天文周期，在不同港口有不同振幅和相位</text>
+  <g transform="translate(66 152)">
+    <rect x="0" y="0" width="470" height="278" rx="24" fill="#dce8ee"/>
+    <text x="25" y="40" font-family="sans-serif" font-size="20" font-weight="700" fill="#1d2924">测站拆出的周期分量</text>
+    <path d="M28 92 C68 50 108 50 148 92 S228 134 268 92 S348 50 388 92 S438 130 444 108" fill="none" stroke="#476d7b" stroke-width="5"/>
+    <path d="M28 160 C78 126 128 126 178 160 S278 194 328 160 S408 129 444 150" fill="none" stroke="#b98a49" stroke-width="5"/>
+    <path d="M28 229 C94 208 160 208 226 229 S358 250 424 229 L444 224" fill="none" stroke="#7c7c9c" stroke-width="5"/>
+    <g font-family="sans-serif" font-size="16" fill="#1d2924"><text x="34" y="119">月球主周期</text><text x="34" y="187">太阳主周期</text><text x="34" y="256">其他周期</text></g>
+    <text x="302" y="260" font-family="sans-serif" font-size="15" fill="#6d604d">各有振幅 + 相位</text>
+  </g>
+  <path d="M558 290 H625" stroke="#7b6847" stroke-width="4" marker-end="url(#arrow)"/>
+  <text x="568" y="270" font-family="sans-serif" font-size="18" font-weight="700" fill="#1d2924">相加</text>
+  <g transform="translate(650 152)">
+    <rect x="0" y="0" width="244" height="278" rx="24" fill="#dce8e1"/>
+    <text x="24" y="40" font-family="sans-serif" font-size="20" font-weight="700" fill="#1d2924">当地预测曲线</text>
+    <path d="M20 172 C50 55 81 58 105 178 S160 258 181 151 S220 57 230 100" fill="none" stroke="#426d57" stroke-width="7"/>
+    <path d="M20 224 H230" stroke="#89998f" stroke-width="2" stroke-dasharray="7 7"/>
+    <text x="28" y="255" font-family="sans-serif" font-size="16" fill="#1d2924">预测的是天文潮位</text>
+  </g>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10z" fill="#7b6847"/></marker></defs>
+  <text x="66" y="493" font-family="sans-serif" font-size="16" fill="#7b6847">原创示意 · 风、气压、风暴增水和浪高需另行判断</text>
+</svg>
