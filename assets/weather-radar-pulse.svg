@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" role="img" aria-labelledby="title desc">
+  <title id="title">天气雷达从回波提取距离反射率与径向速度</title>
+  <desc id="desc">雷达向云雨发射脉冲，往返时间表示距离，回波强度表示反射率，相位变化表示径向速度。</desc>
+  <rect width="800" height="480" rx="32" fill="#eef5ff"/>
+  <text x="48" y="58" font-size="28" font-weight="700" fill="#153960">一束回波，三类线索</text>
+  <g transform="translate(65 135)">
+    <path d="M0 205h145" stroke="#748ca5" stroke-width="7" stroke-linecap="round"/>
+    <path d="M52 205v-88" stroke="#4d6a87" stroke-width="9"/>
+    <path d="M12 95c46-45 97-42 137 0-31 37-96 43-137 0Z" fill="#d7e5f4" stroke="#4d6a87" stroke-width="4"/>
+    <path d="M80 92l-26 24" stroke="#4d6a87" stroke-width="6"/>
+    <circle cx="80" cy="92" r="8" fill="#ef8b32"/>
+    <text x="75" y="246" text-anchor="middle" font-size="18" font-weight="700" fill="#284a6d">雷达</text>
+  </g>
+  <g transform="translate(572 110)">
+    <path d="M27 116c-28-48 44-84 77-52 18-55 107-33 102 21 48 5 46 77-3 80H54c-42-2-57-32-27-49Z" fill="#b9cde2" stroke="#5c7896" stroke-width="4"/>
+    <path d="M67 181l-15 42M115 181l-15 42M163 181l-15 42" stroke="#3f8fc4" stroke-width="8" stroke-linecap="round"/>
+    <text x="113" y="268" text-anchor="middle" font-size="18" font-weight="700" fill="#284a6d">降水粒子</text>
+  </g>
+  <path d="M214 221C330 155 459 151 568 185" fill="none" stroke="#ef8b32" stroke-width="7" stroke-linecap="round"/>
+  <path d="M550 169l22 17-25 12" fill="none" stroke="#ef8b32" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M568 229C450 285 335 286 217 249" fill="none" stroke="#2d78b7" stroke-width="7" stroke-linecap="round" stroke-dasharray="13 10"/>
+  <path d="M235 238l-22 10 17 19" fill="none" stroke="#2d78b7" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(228 330)">
+    <rect width="142" height="74" rx="16" fill="#fff" stroke="#9bb6d2" stroke-width="3"/>
+    <text x="71" y="30" text-anchor="middle" font-size="17" font-weight="700" fill="#244e76">往返时间</text>
+    <text x="71" y="56" text-anchor="middle" font-size="15" fill="#526c85">目标距离</text>
+  </g>
+  <g transform="translate(385 330)">
+    <rect width="142" height="74" rx="16" fill="#fff" stroke="#9bb6d2" stroke-width="3"/>
+    <text x="71" y="30" text-anchor="middle" font-size="17" font-weight="700" fill="#244e76">回波强度</text>
+    <text x="71" y="56" text-anchor="middle" font-size="15" fill="#526c85">反射率估计</text>
+  </g>
+  <g transform="translate(542 330)">
+    <rect width="142" height="74" rx="16" fill="#fff" stroke="#9bb6d2" stroke-width="3"/>
+    <text x="71" y="30" text-anchor="middle" font-size="17" font-weight="700" fill="#244e76">相位变化</text>
+    <text x="71" y="56" text-anchor="middle" font-size="15" fill="#526c85">径向速度</text>
+  </g>
+  <text x="400" y="450" text-anchor="middle" font-size="16" fill="#536c85">雷达测到的是空中散射回波，地面雨量仍需其他观测校准</text>
+</svg>

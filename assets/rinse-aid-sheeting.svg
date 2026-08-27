@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" role="img" aria-labelledby="title desc">
+  <title id="title">普通水滴与加入漂洗剂后的铺展排水对比</title>
+  <desc id="desc">左侧水因较高表面张力形成水珠，右侧降低表面张力后形成薄层并沿玻璃排走。</desc>
+  <rect width="800" height="480" rx="32" fill="#f2fbf8"/>
+  <text x="48" y="60" font-size="28" font-weight="700" fill="#153f38">水珠少一点，待蒸发的水就少一点</text>
+  <line x1="400" y1="92" x2="400" y2="410" stroke="#b9d9d2" stroke-width="3"/>
+  <text x="205" y="112" text-anchor="middle" font-size="21" font-weight="700" fill="#38685f">普通水｜较易成珠</text>
+  <text x="595" y="112" text-anchor="middle" font-size="21" font-weight="700" fill="#176a58">加入漂洗剂｜较易铺展</text>
+  <rect x="72" y="146" width="266" height="190" rx="16" fill="#dff3fb" stroke="#78b7ca" stroke-width="4"/>
+  <path d="M120 250C120 211 157 174 179 153C201 174 238 211 238 250C238 283 212 310 179 310C146 310 120 283 120 250Z" fill="#55b6dc" opacity=".88"/>
+  <path d="M253 270C253 247 275 225 288 213C301 225 323 247 323 270C323 290 307 306 288 306C269 306 253 290 253 270Z" fill="#55b6dc" opacity=".88"/>
+  <path d="M92 350h226" stroke="#438a9c" stroke-width="7" stroke-linecap="round"/>
+  <text x="205" y="386" text-anchor="middle" font-size="17" fill="#42626a">水滴停留，矿物质随蒸发集中</text>
+  <rect x="462" y="146" width="266" height="190" rx="16" fill="#dff3fb" stroke="#78b7ca" stroke-width="4"/>
+  <path d="M486 194C535 174 655 177 704 194V254C638 236 550 238 486 258Z" fill="#55b6dc" opacity=".68"/>
+  <path d="M518 264v65M574 258v84M630 260v72M683 251v92" stroke="#3fa6cf" stroke-width="12" stroke-linecap="round" opacity=".78"/>
+  <path d="M506 315l12 18 12-18M562 328l12 18 12-18M618 318l12 18 12-18M671 329l12 18 12-18" fill="none" stroke="#287f9f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="595" y="386" text-anchor="middle" font-size="17" fill="#42626a">薄膜汇流排走，残留水量降低</text>
+  <text x="400" y="442" text-anchor="middle" font-size="16" fill="#4d6e67">漂洗剂改变界面行为，不替代主洗阶段的洗涤剂</text>
+</svg>

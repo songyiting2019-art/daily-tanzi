@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" role="img" aria-labelledby="title desc">
+  <title id="title">印张拼版折成书帖的原理</title>
+  <desc id="desc">左侧大纸上的页码看似跳跃，中间折叠，右侧形成按阅读顺序排列的书帖。</desc>
+  <rect width="800" height="480" rx="32" fill="#fbf7ef"/>
+  <text x="48" y="58" font-size="28" font-weight="700" fill="#49371e">页码先跳着排，折完才顺</text>
+  <g transform="translate(50 105)">
+    <rect width="300" height="230" rx="8" fill="#fffdf8" stroke="#9a7d4f" stroke-width="4"/>
+    <line x1="150" y1="0" x2="150" y2="230" stroke="#c3ad89" stroke-width="2" stroke-dasharray="7 6"/>
+    <line x1="0" y1="115" x2="300" y2="115" stroke="#c3ad89" stroke-width="2" stroke-dasharray="7 6"/>
+    <text x="75" y="73" text-anchor="middle" font-size="35" font-weight="700" fill="#6e4c1c">8</text>
+    <text x="225" y="73" text-anchor="middle" font-size="35" font-weight="700" fill="#6e4c1c">1</text>
+    <text x="75" y="185" text-anchor="middle" font-size="35" font-weight="700" fill="#6e4c1c">2</text>
+    <text x="225" y="185" text-anchor="middle" font-size="35" font-weight="700" fill="#6e4c1c">7</text>
+    <text x="150" y="266" text-anchor="middle" font-size="17" fill="#665944">大印张上的一面：页码并不连续</text>
+  </g>
+  <path d="M380 213h72" stroke="#b27234" stroke-width="6" stroke-linecap="round"/>
+  <path d="M438 197l18 16-18 16" fill="none" stroke="#b27234" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="416" y="185" text-anchor="middle" font-size="16" fill="#79572d">折叠、裁切</text>
+  <g transform="translate(482 100)">
+    <path d="M40 32h210v270H40c-16 0-28-12-28-28V60c0-16 12-28 28-28Z" fill="#eadfc9" stroke="#876c43" stroke-width="4"/>
+    <path d="M50 20h174c17 0 30 13 30 30v242H50c-17 0-30-13-30-30V50c0-17 13-30 30-30Z" fill="#fffdf8" stroke="#876c43" stroke-width="4"/>
+    <path d="M54 20v272" stroke="#b99f76" stroke-width="3" stroke-dasharray="6 5"/>
+    <text x="150" y="105" text-anchor="middle" font-size="42" font-weight="700" fill="#6e4c1c">1</text>
+    <path d="M95 132h110M95 158h110M95 184h86M95 218h110M95 244h98" stroke="#c4b394" stroke-width="5" stroke-linecap="round"/>
+    <text x="132" y="330" text-anchor="middle" font-size="17" fill="#665944">折好后成为顺序书页</text>
+  </g>
+  <text x="400" y="450" text-anchor="middle" font-size="16" fill="#695a43">正反面必须共同设计；具体页数单元随开本、设备和装订方式变化</text>
+</svg>

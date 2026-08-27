@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" role="img" aria-labelledby="title desc">
+  <title id="title">Meta青少年保护和解的基础条款与条件加强版</title>
+  <desc id="desc">左侧列出至少121亿美元和基础保护，右侧列出同业和解触发后的最高171亿美元与加强保护。</desc>
+  <rect width="800" height="480" rx="32" fill="#f5f3ff"/>
+  <text x="48" y="62" font-size="28" font-weight="700" fill="#241b4b">两层金额，两层规则</text>
+  <rect x="48" y="92" width="330" height="330" rx="24" fill="#ffffff" stroke="#7868d7" stroke-width="3"/>
+  <rect x="422" y="92" width="330" height="330" rx="24" fill="#fff8e8" stroke="#d49528" stroke-width="3"/>
+  <text x="76" y="138" font-size="20" font-weight="700" fill="#4f3fb2">基础版｜法院批准后</text>
+  <text x="76" y="190" font-size="38" font-weight="700" fill="#241b4b">至少 121 亿美元</text>
+  <line x1="76" y1="216" x2="348" y2="216" stroke="#ded9f4" stroke-width="2"/>
+  <text x="76" y="254" font-size="18" fill="#352f4d">• 两款产品合计每日 2 小时</text>
+  <text x="76" y="292" font-size="18" fill="#352f4d">• 午夜至 6 时默认停用</text>
+  <text x="76" y="330" font-size="18" fill="#352f4d">• 夜间、上课时段减少通知</text>
+  <text x="76" y="368" font-size="18" fill="#352f4d">• 家长控制与独立审计</text>
+  <text x="450" y="138" font-size="20" font-weight="700" fill="#9b6410">条件版｜主要同业加入</text>
+  <text x="450" y="190" font-size="38" font-weight="700" fill="#5d3a07">最高 171 亿美元</text>
+  <line x1="450" y1="216" x2="722" y2="216" stroke="#eed9ae" stroke-width="2"/>
+  <text x="450" y="254" font-size="18" fill="#4d3a1c">• 追加 50 亿美元</text>
+  <text x="450" y="292" font-size="18" fill="#4d3a1c">• 每个平台每日 1 小时</text>
+  <text x="450" y="330" font-size="18" fill="#4d3a1c">• 部分夜间限制提前至 22 时</text>
+  <text x="450" y="368" font-size="18" fill="#4d3a1c">• 更严格阶段延长至 10 年</text>
+  <path d="M382 252h36" stroke="#62569d" stroke-width="5" stroke-linecap="round"/>
+  <path d="M408 241l12 11-12 11" fill="none" stroke="#62569d" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="400" y="454" text-anchor="middle" font-size="15" fill="#696278">附加金额与加强条款均有触发条件，不是宣布时就全部生效</text>
+</svg>
