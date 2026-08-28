@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" role="img" aria-labelledby="t d">
+  <title id="t">车辆质量检查链</title><desc id="d">从公告参数、量产制造、耐久测试到驾驶辅助验证的四段流程。</desc>
+  <rect width="960" height="560" rx="36" fill="#f4efe6"/>
+  <text x="64" y="82" font-family="sans-serif" font-size="34" font-weight="700" fill="#1d2924">一辆车从“获准生产”到“交给用户”</text>
+  <path d="M150 280H810" stroke="#9b7a3f" stroke-width="10" stroke-linecap="round"/>
+  <g font-family="sans-serif" text-anchor="middle">
+    <g transform="translate(150 280)"><circle r="58" fill="#dce8ee" stroke="#31586b" stroke-width="5"/><text y="-8" font-size="24" font-weight="700" fill="#244553">公告参数</text><text y="25" font-size="18" fill="#244553">准入基线</text><text y="112" font-size="21" fill="#1d2924">量产车是否一致</text></g>
+    <g transform="translate(370 280)"><circle r="58" fill="#dce8e1" stroke="#47705b" stroke-width="5"/><text y="-8" font-size="24" font-weight="700" fill="#31533f">供应链</text><text y="25" font-size="18" fill="#31533f">制造工艺</text><text y="112" font-size="21" fill="#1d2924">换料与流程波动</text></g>
+    <g transform="translate(590 280)"><circle r="58" fill="#eee1be" stroke="#9b7a3f" stroke-width="5"/><text y="-8" font-size="24" font-weight="700" fill="#6e5226">可靠耐久</text><text y="25" font-size="18" fill="#6e5226">长期验证</text><text y="112" font-size="21" fill="#1d2924">锈蚀、悬架、疲劳</text></g>
+    <g transform="translate(810 280)"><circle r="58" fill="#ead9d4" stroke="#92584f" stroke-width="5"/><text y="-8" font-size="24" font-weight="700" fill="#713f37">新技术</text><text y="25" font-size="18" fill="#713f37">边界场景</text><text y="112" font-size="21" fill="#1d2924">误操作、日志、安全</text></g>
+  </g>
+  <text x="64" y="510" font-family="sans-serif" font-size="20" fill="#5e675f">专项行动检查的是整条链，不是一台送检样车的单次成绩。</text>
+</svg>

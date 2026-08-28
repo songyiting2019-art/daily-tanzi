@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" role="img" aria-labelledby="t d">
+  <title id="t">阿塔卡马降雪路径</title><desc id="d">沿海水汽随低压向内陆和安第斯移动，在高海拔形成降雪。</desc>
+  <rect width="960" height="560" rx="36" fill="#eef3f2"/>
+  <rect y="350" width="250" height="210" fill="#9dc4d1"/>
+  <path d="M0 360Q120 330 250 360V560H0Z" fill="#5f9fb5"/>
+  <path d="M220 560L470 250L610 560Z" fill="#d9b974"/>
+  <path d="M500 560L760 160L960 560Z" fill="#8d7c6b"/>
+  <path d="M702 248L760 160L820 278Q765 250 702 248Z" fill="#f8fbfb"/>
+  <path d="M130 290C290 205 430 245 620 220" fill="none" stroke="#42758a" stroke-width="12" stroke-dasharray="20 16" stroke-linecap="round"/>
+  <polygon points="610,198 664,220 612,246" fill="#42758a"/>
+  <g fill="#f8fbfb" stroke="#6e97a6" stroke-width="3"><circle cx="450" cy="205" r="11"/><circle cx="500" cy="184" r="13"/><circle cx="554" cy="196" r="10"/><circle cx="620" cy="168" r="12"/><circle cx="675" cy="190" r="11"/></g>
+  <g font-family="sans-serif" fill="#1d2924"><text x="54" y="76" font-size="34" font-weight="700">极干沙漠也会遇到罕见降水窗口</text><text x="65" y="410" font-size="24" fill="#f8fbfb">太平洋</text><text x="305" y="485" font-size="24">阿塔卡马核心区</text><text x="748" y="424" font-size="24" fill="#f8fbfb">安第斯</text><text x="210" y="185" font-size="21" fill="#31586b">沿海水汽 + 切断低压</text><text x="54" y="520" font-size="19">示意图，不按比例；低海拔部分地区降雨，高海拔地区降雪。</text></g>
+</svg>
